@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1782255862.1583 "/home/inasc/projects/cvbia/v7-sem-fundo.tex" "v7-sem-fundo.pdf" "v7-sem-fundo" 1782255862.42672 2
+  "/etc/texmf/web2c/texmf.cnf" 1774475996.48216 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/inasc/projects/cvbia/v7-sem-fundo.tex" 1782255861.8613 6739 f284c19fb6944e6904059d8374472832 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty" 1705955748 6565 cfd9fd0a1d5f5ad985151778771ff7a9 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1696969620 9327 c30c00c0072edba199ede5889311aaa9 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1774478279 8215298 70bd1d80ed181ce1f6dde74eb03c507c ""
+  "v7-sem-fundo.aux" 1782255862.15522 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "v7-sem-fundo.tex" 1782255861.8613 6739 f284c19fb6944e6904059d8374472832 ""
+  (generated)
+  "v7-sem-fundo.aux"
+  "v7-sem-fundo.log"
+  "v7-sem-fundo.pdf"
+  (rewritten before read)
